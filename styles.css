@@ -1,1 +1,20 @@
-/* Write your CSS here! */
+body {
+    margin: 8px 8px 8px;
+}
+
+mainHeading{
+    color: red;
+}
+
+hi{
+    padding: 0.625em 0 0.625em 0.625em;
+} 
+p {
+    background-color: green;
+  }
+  .funParagraph {
+    background-color: green;
+  }
+  #testP {
+    background-color: green;
+  }
